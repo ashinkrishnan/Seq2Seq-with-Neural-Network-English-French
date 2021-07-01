@@ -1,1 +1,1 @@
-# Seq2Seq-with-Neural-Network-English->French
+# Seq2Seq-with-Neural-Network|English->French
